@@ -184,9 +184,13 @@ body {
     margin: 20px;
     border: 1px solid rgb(5, 4, 4);
     border-left: none;
-    border-right: none;
+    border-right: none;    
+}
 
-    
+.header{
+    align-items: center;
+    justify-items: center;
+    width: 100%;
 }
 /* Add Media Query for responsiveness */
 @media (max-width: 768px) {
