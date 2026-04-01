@@ -37,5 +37,6 @@ e-plantShopping é uma aplicação web de comércio eletrônico focada em planta
 ## Como Executar o Projeto Localmente
 
 1. Clone este repositório:
-   ```
 (https://github.com/CarlosFernandes98/e-plantShopping.git)
+   ```
+
