@@ -38,4 +38,5 @@ e-plantShopping é uma aplicação web de comércio eletrônico focada em planta
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/<seu-usuario>/e-plantShopping.git
+[   git clone https://github.com/<seu-usuario>/e-plantShopping.git
+](https://github.com/CarlosFernandes98/e-plantShopping.git)
